@@ -1,0 +1,32 @@
+.ana-font { background-color: rgba(115, 153, 133, 0.536);
+}
+#teknik_foto{
+    float: left;
+    margin-top:2px;
+    height: 150px;
+    width: 175px;
+}
+#arti_foto{
+float: left;
+height: 200px;
+}
+#teknik_foto2{
+    clear: left;
+float: left;
+width: 180px;
+height: 140px;
+}
+.saga {
+margin-left: 180px;
+}
+#cigkoftesitesi{
+    text-align: center;
+    background-color: rgb(42, 91, 91);
+
+}
+#video1{  position: absolute;
+    top: 60%;
+    right:10%;
+    height: 30%;
+
+}
